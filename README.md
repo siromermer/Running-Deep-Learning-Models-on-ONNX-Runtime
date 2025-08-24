@@ -29,11 +29,7 @@ This repository contains comprehensive examples of running deep learning models 
 
 </div>
 
-
-
-
-
-
+<br>
 
 ## 📖 Overview
 
