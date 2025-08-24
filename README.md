@@ -7,6 +7,34 @@ This repository contains comprehensive examples of running deep learning models 
 * Mask R-CNN (instance segmentation)
 * ResNet (image classification)
 
+<br>
+
+<div align="center">
+
+  <!-- Top row: two images -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/9b36b89c-7c94-460d-9d15-4484b8e125e0" alt="image3" width="500" height="300" />
+  </div>
+   <br /> <!-- spacing between rows -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/62cd12d3-db0d-4087-bf40-183a1835ffb4" alt="image2" width="500" height="300" />
+  </div>
+  
+  <br /> <!-- spacing between rows -->
+
+  <!-- Bottom row: one image centered -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/b08ee935-a9b1-42af-b68e-769b879814fa" alt="image1" width="500" height="300" />
+  </div>
+
+</div>
+
+
+
+
+
+
+
 ## 📖 Overview
 
 This project demonstrates how to:
