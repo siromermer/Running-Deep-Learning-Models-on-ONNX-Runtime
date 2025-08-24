@@ -9,13 +9,6 @@ This project demonstrates how to:
 - Run inference using ONNX Runtime with GPU acceleration
 - Visualize results for classification, detection, and segmentation tasks
 
-https://github.com/user-attachments/assets/73434093-2dbf-41bd-a8e5-8f70f6580e20
-
-https://github.com/user-attachments/assets/68a4701b-2d98-486d-84bd-0fd815ef7da6
-
-https://github.com/user-attachments/assets/2ae07cdb-a532-4f49-9afd-2e1e3fbe3ec7
-
-
 
 ## 📁 Project Structure
 
