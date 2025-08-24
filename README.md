@@ -2,6 +2,11 @@
 
 This repository contains comprehensive examples of running deep learning models using ONNX Runtime with GPU acceleration. The examples cover image classification, object detection, and image segmentation tasks.
 
+* YOLO (object detection)
+* Faster R-CNN (object detection)
+* Mask R-CNN (instance segmentation)
+* ResNet (image classification)
+
 ## 📖 Overview
 
 This project demonstrates how to:
@@ -76,6 +81,8 @@ onnx-runtime/
 - Generates object masks with different colors
 - Combines detection and segmentation in video processing
 
+<br>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -102,28 +109,6 @@ onnx-runtime/
    pip install -r requirements.txt
    ```
 
-
-## 🎥 Example Output Videos
-
-The repository includes three demonstration videos in the `video_results/` folder showing the models in action:
-
-### 1. `video_results/yolo_onnx_runtime.mp4`
-- **Model:** YOLOv8 ONNX
-- **Task:** Real-time object detection
-- **Features:** High-speed detection with FPS counter
-- **Use Case:** Fast detection for real-time applications
-
-### 2. `video_results/faster_rcnn_onnx_runtime.mp4`
-- **Model:** Faster R-CNN ONNX
-- **Task:** Accurate object detection
-- **Features:** Precise bounding boxes with confidence scores
-- **Use Case:** High-accuracy detection applications
-
-### 3. `video_results/mask_rcnn_onnx_runtime.mp4`
-- **Model:** Mask R-CNN ONNX
-- **Task:** Instance segmentation
-- **Features:** Object detection + pixel-level segmentation masks
-- **Use Case:** Detailed scene understanding and object segmentation
 
 ## 🔧 CUDA Compatibility
 
