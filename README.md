@@ -31,7 +31,7 @@ This repository contains comprehensive examples of running deep learning models 
 
 <br>
 
-## 📖 Overview
+## Overview
 
 This project demonstrates how to:
 - Export PyTorch models to ONNX format
@@ -39,7 +39,7 @@ This project demonstrates how to:
 - Visualize results for classification, detection, and segmentation tasks
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 onnx-runtime/
@@ -75,7 +75,7 @@ onnx-runtime/
     └── yolo_onnx_runtime.mp4           # YOLO detection demo
 ```
 
-## 📚 Notebooks Description
+##  Notebooks Description
 
 ### 1. `classification_resnet.ipynb`
 **Image Classification with ResNet-50**
@@ -107,7 +107,7 @@ onnx-runtime/
 
 <br>
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.10
@@ -134,7 +134,7 @@ onnx-runtime/
    ```
 
 
-## 🔧 CUDA Compatibility
+##  CUDA Compatibility
 
 This project is tested with:
 - **CUDA Version:** 12.8
@@ -144,7 +144,7 @@ This project is tested with:
 
 For CUDA compatibility, check the [official ONNX Runtime documentation](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html).
 
-## 🔍 Key Features
+## Key Features
 
 - **GPU Acceleration:** All models run with CUDA acceleration through ONNX Runtime
 - **Model Export:** Complete examples of PyTorch to ONNX conversion
@@ -153,7 +153,7 @@ For CUDA compatibility, check the [official ONNX Runtime documentation](https://
 - **Performance Metrics:** FPS counters and timing information
 - **Multiple Tasks:** Classification, detection, and segmentation examples
 
-## 📋 System Requirements
+## System Requirements
 
 - **OS:** Linux (tested on Ubuntu)
 - **Python:** 3.10
@@ -161,7 +161,7 @@ For CUDA compatibility, check the [official ONNX Runtime documentation](https://
 - **GPU Memory:** 6GB+ VRAM recommended
 - **Storage:** 2GB+ for models and dependencies
 
-## 🤝 Usage Notes
+##  Usage Notes
 
 1. Ensure your GPU drivers and CUDA installation are compatible
 2. Models are automatically downloaded on first run
