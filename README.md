@@ -9,6 +9,10 @@ This repository contains comprehensive examples of running deep learning models 
 
 <br>
 
+Article about this repository: https://visionbrick.com/run-any-deep-learning-model-with-onnx-runtime-in-python/
+
+<br>
+
 <div align="center">
 
   <!-- Top row: two images -->
